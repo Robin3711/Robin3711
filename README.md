@@ -11,9 +11,9 @@ je suis actuellement étudiant en informatique dans un parcours de développemen
     Cela m'a permit de m'initier aux développement web et android.
  </li>
   
-  <li>3</li>
+  <li><h4>Mastermind : </h4> Mastermind en Java. UI en Swing. L'accent était mit sur la conception, et j'ai alors du étudier les UMLs, les patrons de conceptions et la structure MVC </li>
   
-  <li>4</li>
+  <li><h4>jeu Godot :</h4> juste un simple projet de jeu que je réalise en GodotScript, langage interne a Godot proche du python  </li>
   
 </ul>
 
